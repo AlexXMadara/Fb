@@ -1,7 +1,7 @@
 #▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭[ FULL SCRIPT ]▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭#
 # OWNER BY SCRIPT : MR OGGY
 # GITHUB LINK : SKBER-CYBER
-# MACK BY : JAHID HASAN 
+# MACK BY : Jihad Hasan
 #▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭[ IMPORT MODULES ]▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭#
 print("\x1b[38;5;46m➤\x1b[1;97m WELCOME AMO TOOL")
 print("\x1b[38;5;46m➤\x1b[1;97m INJOY A PAID TOOL ")
