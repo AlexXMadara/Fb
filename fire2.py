@@ -591,7 +591,7 @@ def __API__(ids,passlist,tl,ck):
         pass
 #▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭[ END ]▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭#
 try: 
-    apv()
+    Main()
 except requests.exceptions.ConnectionError:
         print('\n No internet connection ...')
         exit()
